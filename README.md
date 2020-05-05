@@ -1,4 +1,4 @@
-# Pacifi
+# <img src="/Slides/logo.png" width="150" align="center" > Pacifi
 #### [WINNER OF SAMSUNG SOLVE FOR TOMORROW HK 2019]
 A mobile app for iOS and Android to relax, recharge and reflect
 
